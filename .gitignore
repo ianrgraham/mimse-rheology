@@ -1,0 +1,15 @@
+.env
+
+extern/hoomd-blue
+extern/hoomd-mimse
+extern/.build
+
+*.pyc
+.pytest_cache
+__pycache__
+
+2d-osc-shear-initial-states
+
+*.nsys-rep
+
+*.ovito
